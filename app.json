@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-modules-scoped-packages-bug-mve",
+    "slug": "expo-modules-scoped-packages-bug-mve",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
